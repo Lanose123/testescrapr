@@ -44,7 +44,7 @@
         await delay(2000);
     }
 
-    for (let i = 1; i <= 46; i++) {
+    for (let i = 46; i <= 46; i++) {
         await processPage(i);
     }
 
